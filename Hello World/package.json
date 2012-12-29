@@ -1,0 +1,11 @@
+{
+  "name": "Hello World",
+  "description": "Hello World Demo",
+  "version": "1",
+  "main": "index.html",
+  "window": {
+    "toolbar": false,
+    "width": 660,
+    "height": 500
+  }
+}
